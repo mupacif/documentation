@@ -16,4 +16,5 @@ The structure is like
 # Tutorials
 ## Articles
 ### Beginner
-- https://www.tensorflow.org/tutorials/quickstart/beginner?hl=fr
+- [TensorFlow quickstart (EN)](https://www.tensorflow.org/tutorials/quickstart/beginner)
+  - [TensorFlow quickstart (FR)](https://www.tensorflow.org/tutorials/quickstart/beginner?hl=fr)
